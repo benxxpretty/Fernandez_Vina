@@ -27,7 +27,7 @@
     
 
     <h1 class="text-4xl font-extrabold text-indigo-800 text-center tracking-wide drop-shadow-md mb-6">
-      🔄 Update Student Record
+      Update Student Record
     </h1>
  
     </h1>
